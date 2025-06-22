@@ -11,7 +11,7 @@ Exploratory Data Analysis (EDA)
 Predictive modeling (Linear, RF, LSTM)
 Evaluation with RMSE & MAE
 
-🧠 Technologies & Libraries
+🧠 Technologies & Libraries:
 Python for scripting and analysis
 Pandas for data manipulation
 Scipy.stats for statistical evaluations
